@@ -3,12 +3,12 @@ title: 🚩0x4148 — Blind SQL Injection Write-up
 published: 2025-06-22
 description: ⭐ NANO IS HERE ⭐
 tags: [SQL Injection, Challenge, sql injection, Blind ,ctf,CyberSecurity]
-image: "/src/assets/images/ban2.png"
+image: "./ban2.png"
 category: CTF
 
 draft: false
 ---
-> Cover image source: [Source](/src/assets/images/ban2.png)
+> Cover image source: [Source](./ban2.png)
 
  Introduction
 ---------------
