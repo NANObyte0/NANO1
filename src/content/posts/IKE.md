@@ -2,12 +2,12 @@
 title: IKE _IPSEC( Port 500/4500) Explained
 published: 2025-06-22
 description: ⭐ NANO IS HERE ⭐
-image: "/src/assets/images/Ike_gu.png"
+image: "/blob/main/src/assets/images/Ike_gu.png"
 tags: [IKE, IPsec, NetworkSecurity, TechGuide, Encryption]
 category: Guides
 draft: false
 ---
-> Cover image source: [Source](/src/assets/images/Ike_gu.png)
+> Cover image source: [Source](/blob/main/src/assets/images/Ike_gu.png)
 
 IKE _IPSEC( Port 500/4500) Explained
 =====================================
