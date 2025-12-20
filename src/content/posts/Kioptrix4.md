@@ -2,12 +2,12 @@
 title: Kioptrix Level 4 Write-up
 published: 2025-06-22
 description: ⭐ NANO IS HERE ⭐
-image: "/src/assets/images/nobe.png"
+image: "./nobe.png"
 tags: [kioptrix4, vulnhub, sql injection, privilege escalation, ctf]
 category: CTF
 draft: false
 ---
-> Cover image source: [Source](/src/assets/images/nobe.png)
+> Cover image source: [Source](./nobe.png)
 
 
    Intr0ducti0n

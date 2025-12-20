@@ -3,12 +3,12 @@ title: System Takeover
 published: 2025-06-22
 description: ⭐ NANO IS HERE ⭐
 tags: [DockerEscape, PrivilegeEscalation, WindowsAdmin, Exploitation ,]
-image: "/src/assets/images/Docker.png"
+image: "./Docker.png"
 category: Hacking TTPs
 draft: false
 ---
 
-> Cover image source: [Source](/src/assets/images/Docker.png)
+> Cover image source: [Source](./Docker.png)
 
  Introduction
 ---------------

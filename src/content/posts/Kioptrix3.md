@@ -3,12 +3,12 @@ title: Kioptrix3 (Walkthrough)
 published: 2025-06-22
 description: ⭐ NANO IS HERE ⭐
 tags: [Penetration Testing, Red Team, Vulnerability Exploitation, Web Security ,]
-image: "/src/assets/images/kiop3.1.png"
+image: "./kiop3.1.png"
 category: CTF
 draft: false
 ---
 
-> Cover image source: [Source](/src/assets/images/kiop3.1.png)
+> Cover image source: [Source](./kiop3.1.png)
 
  Introduction
 ---------------
